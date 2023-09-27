@@ -104,7 +104,7 @@
               </grid>
             </constraints>
             <properties>
-              <text value="sdfgfhj"/>
+              <text value=""/>
             </properties>
           </component>
           <component id="9d8f6" class="javax.swing.JTextField" binding="textField2" default-binding="true">
