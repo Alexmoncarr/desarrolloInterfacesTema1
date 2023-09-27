@@ -10,7 +10,7 @@ public class prueba {
     private JTextField textField1;
     private JTextArea sdfgfhjTextArea;
     private JTextField textField2;
-    private JTextArea dsdfghjhTextArea;
+    private JTextArea dsdfgjhTextArea;
     private JTextArea sfdgfhjTextArea;
     private JTextArea asdfghjTextArea;
     private JTextArea adsfdgfhgfjkTextArea;
