@@ -6,7 +6,7 @@ public class prueba {
     private JPanel TituloIzq;
     private JPanel TituloDere;
     private JTextField NombreCliente;
-    private JTextArea sddfgfhjhTextArea;
+    private JTextArea sddfgfhjTextArea;
     private JTextField textField1;
     private JTextArea sdfgfhjTextArea;
     private JTextField textField2;
